@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
  - 🌱 I’m currently learning Javascript <br>
- - 📫 You Reach me on: <a href="https://instagram.com/mert.ssmnoglu/"><b>Instagram</b></a> Discord (@mertssmnoglu#0630)<br>
+ - 📫 You Reach me on: <a href="https://instagram.com/mert.ssmnoglu/"><b>Instagram</b></a>, Discord @mertssmnoglu#0630 <br>
  - 💻 Creator & Developer of <a href="https://github.com/mertssmnoglu/Navigator"><b>Navigator</b></a><br>
  
 
