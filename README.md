@@ -1,10 +1,16 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
  - 🌱 I’m currently learning Javascript
  - 📫 How to reach me: Instagram(@mert.ssmnoglu) Discord(@mertssmnoglu#0630)
+ Developer of <a href="https://github.com/mertssmnoglu/Navigator"><b>Navigator</b></a></li><br>
+ 
+<ul>
+<li><a href="https://discord.com/oauth2/authorize?client_id=732303042577170554&scope=bot&permissions=2146958847">Invite Link</a><br></li>
+<li><a href="https://discord.gg/rkxu6fJ">Support Server</a></li>
+</ul>
+ 
+ 
 <!--
-
 - 🔭 I’m currently working on ...
-
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
