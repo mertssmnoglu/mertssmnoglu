@@ -1,7 +1,7 @@
 <h2>Hi there 👋 I am Mert</h2>
  - 💻 Creator & Developer of <a href="https://github.com/mertssmnoglu/Navigator"><b>Navigator</b></a><br>
  - 🌱 I’m currently learning Javascript <br>
- - 📫 You Reach me on: <a href="https://instagram.com/mert.ssmnoglu/"><b>Instagram</b></a><br>
+ - 📫 You can Reach me on: <a href="https://instagram.com/mert.ssmnoglu/"><b>Instagram</b></a><br>
  
  
 
