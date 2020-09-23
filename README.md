@@ -4,7 +4,7 @@
  - Developer of <a href="https://github.com/mertssmnoglu/Navigator"><b>Navigator</b></a></li><br>
  
 <ul>
-<li><a href="https://discord.com/oauth2/authorize?client_id=732303042577170554&scope=bot&permissions=2146958847">Invite Link</a><br></li>
+<li><a href="https://discord.com/oauth2/authorize?client_id=732303042577170554&scope=bot&permissions=2146958847">Invite Link</a></li>
 <li><a href="https://discord.gg/rkxu6fJ">Support Server</a></li>
 </ul>
  
