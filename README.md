@@ -1,7 +1,7 @@
 <h2>Hi there 👋</h2>
  - 🌱 I’m currently learning Javascript <br>
  - 📫 How to reach me: Instagram(@mert.ssmnoglu) Discord(@mertssmnoglu#0630)<br>
- - Developer of <a href="https://github.com/mertssmnoglu/Navigator"><b>Navigator</b></a></li><br>
+ - 💻 Developer of <a href="https://github.com/mertssmnoglu/Navigator"><b>Navigator</b></a></li><br>
  
 
  
