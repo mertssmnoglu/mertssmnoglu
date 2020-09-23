@@ -2,12 +2,13 @@
  - 🌱 I’m currently learning Javascript <br>
  - 📫 How to reach me: Instagram(@mert.ssmnoglu) Discord(@mertssmnoglu#0630)<br>
  - Developer of <a href="https://github.com/mertssmnoglu/Navigator"><b>Navigator</b></a></li><br>
- <a href="https://discord.com/oauth2/authorize?client_id=732303042577170554&scope=bot&permissions=2146958847">- Invite Link</a>
- <a href="https://discord.gg/rkxu6fJ">- Support Server</a>
+ 
 
  
  
 <!--
+ <a href="https://discord.com/oauth2/authorize?client_id=732303042577170554&scope=bot&permissions=2146958847">- Invite Link</a>
+ <a href="https://discord.gg/rkxu6fJ">- Support Server</a>
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
