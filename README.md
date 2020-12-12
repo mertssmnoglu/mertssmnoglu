@@ -1,21 +1,5 @@
-<h2>Hi there 👋 I am Mert</h2>
+# Hi there 👋 I am Mert
  - 💻 Creator & Developer of <a href="https://github.com/mertssmnoglu/Navigator"><b>Navigator</b></a><br>
- - 🌱 I’m currently learning Javascript <br>
- - 📫 You can Reach me on: <a href="https://instagram.com/mert.ssmnoglu/"><b>Instagram</b></a><br>
+ - 🌱 I’m currently learning Javascript, Typescript and Python<br>
+ - 📫 You can Reach me on <a href="https://instagram.com/mert.ssmnoglu/"><b>Instagram</b></a><br>
  
- 
-
- 
- 
-<!--
- , Discord @mertssmnoglu#0630 
- <a href="https://discord.com/oauth2/authorize?client_id=732303042577170554&scope=bot&permissions=2146958847">- Invite Link</a>
- <a href="https://discord.gg/rkxu6fJ">- Support Server</a>
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
