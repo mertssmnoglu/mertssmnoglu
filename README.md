@@ -2,7 +2,7 @@
 Mert Şişmanoğlu
 </h1>
 
-General Manager at [Yazılımcı Mekanı](https://discord.gg/A4eFQ99knk)
+General Manager at [Yazılımcı Mekanı](https://github.com/yazilimcimekani)
 
 I’m currently working on https://mertsismanoglu.com
 
