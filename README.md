@@ -4,8 +4,6 @@ Mert Şişmanoğlu
 
 General Manager at [Yazılımcı Mekanı](https://github.com/yazilimcimekani)
 
-I’m currently working on https://mertsismanoglu.com
-
 ## Get In Touch
 
 - [LinkedIn](https://linkedin.com/in/mertssmnoglu)
