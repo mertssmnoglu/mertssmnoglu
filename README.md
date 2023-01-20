@@ -12,18 +12,4 @@ General Manager at [Yazılımcı Mekanı](https://github.com/yazilimcimekani)
 
 ## My Skills
 
-#### Frontend Skills
-
-![My Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,vite)
-
-#### Backend Skills
-
-![My Backend Skills](https://skillicons.dev/icons?i=nodejs,golang,c)
-
-#### DevOps Skills
-
-![My DevOps Skills](https://skillicons.dev/icons?i=linux,docker)
-
-#### Database Skills
-
-![My Database Skills](https://skillicons.dev/icons?i=mysql,mongodb)
+![My Frontend Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,vite,nodejs,golang,c,linux,docker,mysql,mongodb&perline=10)
