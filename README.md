@@ -12,4 +12,4 @@ General Manager at [Yazılımcı Mekanı](https://github.com/yazilimcimekani)
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,vite,nodejs,golang,c,linux,docker,mysql,mongodb&perline=10)
+![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nodejs,golang,c,linux,docker,mysql,mongodb)
