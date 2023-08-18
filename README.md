@@ -14,4 +14,4 @@ General Manager at [Yazılımcı Mekanı](https://github.com/yazilimcimekani)
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,ts,golang,c,linux,docker,mysql,mongodb)
+![My Skills](https://skillicons.dev/icons?i=nodejs,ts,golang,linux,docker,mysql,mongodb)
