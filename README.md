@@ -2,8 +2,6 @@
 Mert Şişmanoğlu
 </h1>
 
-General Manager at [Yazılımcı Mekanı](https://github.com/yazilimcimekani)
-
 ## Get In Touch
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mertssmnoglu)
