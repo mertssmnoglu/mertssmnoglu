@@ -16,6 +16,7 @@ I build monitoring agents, instrument services, and make systems observable and 
 ## Translation Contributions
 - [cncf/glossary](https://github.com/cncf/glossary)
 - [localsend/localsend](https://github.com/localsend/localsend)
+- [python/python-docs-tr](https://github.com/python/python-docs-tr)
 
 ## Focus
 - Monitoring, metrics, logs, traces
