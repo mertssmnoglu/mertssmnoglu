@@ -24,7 +24,7 @@ I build monitoring agents, instrument services, and make systems observable and 
 - Self‑hosting on VPS via Coolify
 
 ## Tech & Tools
-- Languages & Frameworks: Go, Gin, Fiber, Echo, Deno
+- Languages & Frameworks: Go, Gin, Fiber, Deno, Node.js, TypeScript, Python, FastAPI, Hono
 - Observability: OpenTelemetry, Prometheus, Grafana, Jaeger, ClickHouse
 - Infra & Ops: Linux, Docker, Kubernetes, Helm
 - Data & Platforms: MongoDB, Strapi, Listmonk, Git, GitHub, CLI tools
