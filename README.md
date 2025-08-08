@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mertssmnoglu&label=Profile%20views&color=0e75b6&style=flat" alt="mertssmnoglu" /> </p>
 <p align="center"><em>Open-source developer passionate about observability and localization.</em></p>
 
 <p align="center">
