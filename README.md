@@ -26,5 +26,5 @@ I build monitoring agents, instrument services, and make systems observable and 
 ## Tech & Tools
 - Languages & Frameworks: Go, Gin, Fiber, Echo, Deno
 - Observability: OpenTelemetry, Prometheus, Grafana, Jaeger, ClickHouse
-- Infra & Ops: Linux, Docker, Kubernetes, Helm, Terraform, Nginx, CI/CD
+- Infra & Ops: Linux, Docker, Kubernetes, Helm
 - Data & Platforms: MongoDB, Strapi, Listmonk, Git, GitHub, CLI tools
