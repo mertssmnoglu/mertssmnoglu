@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:mertssmnoglu@gmail.com">mertssmnoglu@gmail.com</a>
-  <a href="https://github.com/mertssmnoglu?tab=followers">Followers</a>
 </p>
 
 ## About
