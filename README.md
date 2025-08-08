@@ -29,3 +29,6 @@ I build monitoring agents, instrument services, and make systems observable and 
 - Observability: OpenTelemetry, Prometheus, Grafana, Jaeger, ClickHouse
 - Infra & Ops: Linux, Docker, Kubernetes, Helm
 - Data & Platforms: MongoDB, Strapi, Listmonk, Git, GitHub, CLI tools
+
+## Socials
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mertssmnoglu) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@mertssmnoglu)
