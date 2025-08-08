@@ -2,7 +2,7 @@
 <p align="center"><em>Open-source developer passionate about observability and localization.</em></p>
 
 <p align="center">
-  <a href="mailto:devops@mertssmnoglu">devops@mertssmnoglu</a> •
+  <a href="mailto:mertssmnoglu@gmail.com">mertssmnoglu@gmail.com</a>
   <a href="https://github.com/mertssmnoglu?tab=followers">Followers</a>
 </p>
 
