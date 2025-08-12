@@ -28,11 +28,10 @@ View my [source repositories](https://github.com/mertssmnoglu?tab=repositories&t
 - **Blog:** [mertsismanoglu.com/blog](https://mertsismanoglu.com/blog)
 - **Medium:** [medium.com/@mertssmnoglu](https://medium.com/@mertssmnoglu)
 
-## Further Reading?
+## Details
 
 <details>
-  <summary>Interested in Turkish Localization? Here are some of my
-  contributions:</summary>
+  <summary>My Turkish localization contributions</summary>
 
 - [cncf/glossary](https://github.com/cncf/glossary) | Improving Turkish
   translations of CNCF glossary terms with the team.
