@@ -7,6 +7,8 @@ I'm currently maintaining [Capture](https://github.com/bluewave-labs/capture),
 a hardware monitoring agent for [Checkmate](https://github.com/bluewave-labs/Checkmate)
 that collects and exposes hardware metrics via a RESTful API.
 
+View my [source repositories](https://github.com/mertssmnoglu?tab=repositories&type=source)
+
 ## Areas of Focus
 
 - Backend development with Go, Python, and TypeScript
