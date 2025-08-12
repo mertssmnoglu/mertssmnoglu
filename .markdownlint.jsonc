@@ -1,0 +1,15 @@
+// Markdownlint configuration file
+// This file is used to configure rules for markdownlint, a tool for checking Markdown files for
+// style and formatting issues. The rules are based on the markdownlint standard ruleset.
+
+// For more information on markdownlint and its rules, visit:
+// https://github.com/DavidAnson/markdownlint/blob/v0.38.0/doc/Rules.md
+
+// For specific rule documentation, refer to:
+// https://github.com/DavidAnson/markdownlint/blob/v0.38.0/doc/{rule}.md
+
+{
+  "MD007": { "indent": 4 }, // Unordered list indentation, https://github.com/DavidAnson/markdownlint/blob/v0.38.0/doc/md007.md
+  "MD025": false, // Multiple top-level headings in the same document, https://github.com/DavidAnson/markdownlint/blob/v0.38.0/doc/md025.md
+  "MD033": false // Inline HTML, https://github.com/DavidAnson/markdownlint/blob/v0.38.0/doc/md033.md
+}
