@@ -1,8 +1,11 @@
 <h1 align="center">Mert Şişmanoğlu</h1>
 
-I am Mert Şişmanoğlu, a backend developer passionate about monitoring, observability and system reliability.
+I am Mert Şişmanoğlu,
+a Backend Developer passionate about monitoring, observability and system reliability.
 
-I'm currently maintaining [Capture](https://github.com/bluewave-labs/capture), it's the hardware monitoring agent of [Checkmate](https://github.com/bluewave-labs/Checkmate).
+I'm currently maintaining [Capture](https://github.com/bluewave-labs/capture),
+a hardware monitoring agent for [Checkmate](https://github.com/bluewave-labs/Checkmate)
+that collects and exposes hardware metrics via a RESTful API.
 
 ## Areas of Focus
 
@@ -26,11 +29,19 @@ I'm currently maintaining [Capture](https://github.com/bluewave-labs/capture), i
 ## Further Reading?
 
 <details>
-  <summary>Interested in Turkish Localization? Here are some of my contributions:</summary>
+  <summary>Interested in Turkish Localization? Here are some of my
+  contributions:</summary>
 
-- [cncf/glossary](https://github.com/cncf/glossary) | Improving Turkish translations of CNCF glossary terms with the team.
-- [localsend/localsend](https://github.com/localsend/localsend) | Contributed to the Turkish translation of LocalSend, a LAN file sharing application.
-- [python/python-docs-tr](https://github.com/python/python-docs-tr) | Contributed to the Turkish translation of Python documentation, enhancing accessibility for Turkish-speaking developers.
-- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | Contributed to the Turkish translation of the Bluesky social app, making it more accessible to Turkish users.
+- [cncf/glossary](https://github.com/cncf/glossary) | Improving Turkish
+  translations of CNCF glossary terms with the team.
+- [localsend/localsend](https://github.com/localsend/localsend) |
+  Contributed to the Turkish translation of LocalSend, a LAN file sharing
+  application.
+- [python/python-docs-tr](https://github.com/python/python-docs-tr) |
+  Contributed to the Turkish translation of Python documentation, enhancing
+  accessibility for Turkish-speaking developers.
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) |
+  Contributed to the Turkish translation of the Bluesky social app, making it
+  more accessible to Turkish users.
 
 </details>
