@@ -1,33 +1,36 @@
-<p align="center"><em>Open-source developer passionate about observability and localization.</em></p>
+<h1 align="center">Mert Şişmanoğlu</h1>
 
-<p align="center">
-  <a href="mailto:mertssmnoglu@gmail.com">mertssmnoglu@gmail.com</a>
-</p>
+I am Mert Şişmanoğlu, a backend developer passionate about monitoring, observability and system reliability.
 
-## About
-I build monitoring agents, instrument services, and make systems observable and reliable. I also contribute translations to help projects reach more users.
+I'm currently maintaining [Capture](https://github.com/bluewave-labs/capture), it's the hardware monitoring agent of [Checkmate](https://github.com/bluewave-labs/Checkmate).
 
-## Projects
-- [bluewave-labs/capture](https://github.com/bluewave-labs/capture) — Core monitoring agent in Go.
-- [mertssmnoglu/monitoring-observability-case](https://github.com/mertssmnoglu/monitoring-observability-case) — Examples for monitoring and observability tools.
-- [orhun/flawz](https://github.com/orhun/flawz) — Contributed: open first HTTP reference in browser (Gruvbox theme).
+## Areas of Focus
 
-## Translation Contributions
-- [cncf/glossary](https://github.com/cncf/glossary)
-- [localsend/localsend](https://github.com/localsend/localsend)
-- [python/python-docs-tr](https://github.com/python/python-docs-tr)
-
-## Focus
-- Monitoring, metrics, logs, traces
-- Distributed tracing, API monitoring, SLOs/alerts
+- Backend development with Go, Python, and TypeScript
+- Cloud-native application design and development
+- API monitoring and observability
 - Performance profiling and backend reliability
-- Self‑hosting on VPS via Coolify
+- Open Source contributions and community engagement
 
-## Tech & Tools
-- Languages & Frameworks: Go, Gin, Fiber, Deno, Node.js, TypeScript, Python, FastAPI, Hono
-- Observability: OpenTelemetry, Prometheus, Grafana, Jaeger, ClickHouse
-- Infra & Ops: Linux, Docker, Kubernetes, Helm
-- Data & Platforms: MongoDB, Strapi, Listmonk, Git, GitHub, CLI tools
+## Contact
 
-## Socials
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/mertssmnoglu) [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/@mertssmnoglu)
+- **Email:** [mertssmnoglu@gmail.com](mailto:mertssmnoglu@gmail.com)
+- **LinkedIn:** [linkedin.com/in/mertssmnoglu](https://linkedin.com/in/mertssmnoglu)
+
+## Links
+
+- **Website:** [mertsismanoglu.com](https://mertsismanoglu.com)
+- **Blog:** [mertsismanoglu.com/blog](https://mertsismanoglu.com/blog)
+- **Medium:** [medium.com/@mertssmnoglu](https://medium.com/@mertssmnoglu)
+
+## Further Reading?
+
+<details>
+  <summary>Interested in Turkish Localization? Here are some of my contributions:</summary>
+
+- [cncf/glossary](https://github.com/cncf/glossary) | Improving Turkish translations of CNCF glossary terms with the team.
+- [localsend/localsend](https://github.com/localsend/localsend) | Contributed to the Turkish translation of LocalSend, a LAN file sharing application.
+- [python/python-docs-tr](https://github.com/python/python-docs-tr) | Contributed to the Turkish translation of Python documentation, enhancing accessibility for Turkish-speaking developers.
+- [bluesky-social/social-app](https://github.com/bluesky-social/social-app) | Contributed to the Turkish translation of the Bluesky social app, making it more accessible to Turkish users.
+
+</details>
