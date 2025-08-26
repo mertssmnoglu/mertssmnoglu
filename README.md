@@ -20,6 +20,7 @@ View my [source repositories](https://github.com/mertssmnoglu?tab=repositories&t
 ## Blog Posts
 
 <!-- BLOG-POST-LIST -->
+- [Crossposting on Social Media with crosspost](https://mertsismanoglu.com/blog/crossposting-on-social-media-with-crosspost/)
 
 ## Contact
 
