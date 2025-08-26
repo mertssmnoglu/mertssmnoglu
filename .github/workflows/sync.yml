@@ -33,3 +33,6 @@ jobs:
           git add README.md
           git commit -m "Update blog posts [skip ci]" || echo "No changes to commit"
           git push origin HEAD:${GITHUB_REF}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
