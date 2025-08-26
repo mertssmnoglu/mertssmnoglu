@@ -17,6 +17,10 @@ View my [source repositories](https://github.com/mertssmnoglu?tab=repositories&t
 - Performance profiling and backend reliability
 - Open Source contributions and community engagement
 
+## Blog Posts
+
+<!-- BLOG-POST-LIST -->
+
 ## Contact
 
 - **Email:** [mertssmnoglu@gmail.com](mailto:mertssmnoglu@gmail.com)
