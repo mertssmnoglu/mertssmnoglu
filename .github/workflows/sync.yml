@@ -24,7 +24,7 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install feedparser
+        run: pip install -r requirements.txt
 
       - name: Run update script
         run: python blog_rss_sync.py
