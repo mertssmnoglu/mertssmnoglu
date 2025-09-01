@@ -9,6 +9,8 @@ that collects and exposes hardware metrics via a RESTful API.
 
 View my [source repositories](https://github.com/mertssmnoglu?tab=repositories&type=source)
 
+[☕ Sponsor me on GitHub](https://github.com/sponsors/mertssmnoglu)
+
 ## Areas of Focus
 
 - Backend development with Go, Python, and TypeScript
