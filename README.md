@@ -26,7 +26,7 @@ View my [source repositories](https://github.com/mertssmnoglu?tab=repositories&t
 
 ## Contact
 
-- **Email:** [mertssmnoglu@gmail.com](mailto:mertssmnoglu@gmail.com)
+- **Email:** [mertsismanoglu@tuta.io](mailto:mertsismanoglu@tuta.io)
 - **LinkedIn:** [linkedin.com/in/mertssmnoglu](https://linkedin.com/in/mertssmnoglu)
 
 ## Links
