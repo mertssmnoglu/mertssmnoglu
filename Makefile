@@ -15,3 +15,7 @@ clean:
 open-cv:
 	@echo "make/open-cv: Opening CV PDF..."
 	xdg-open cv/Mert_Sismanoglu_CV.pdf
+
+generate-student-cv:
+	@echo "make/generate-student-cv: Generating Student CV PDF..."
+	pdflatex -jobname=cv/Mert_Sismanoglu_Student_CV cv_statistics_student.tex
